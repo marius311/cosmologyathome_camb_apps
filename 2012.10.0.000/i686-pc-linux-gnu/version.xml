@@ -1,0 +1,10 @@
+<version>
+   <file>
+      <physical_name>camb_2012.10.0.000_i686-pc-linux-gnu</physical_name>
+      <main_program/>
+   </file>
+   <file>
+      <physical_name>HighLExtrapTemplate_lenspotentialCls.dat</physical_name>
+      <copy_file/>
+   </file>
+</version>
